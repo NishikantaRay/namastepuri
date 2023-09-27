@@ -885,7 +885,8 @@ color: #aa8453;
     transform: translateY(100px);
     -webkit-box-shadow: 0px 5px 15px rgb(15 36 84 / 5%);
     box-shadow: 0px 5px 15px rgb(15 36 84 / 5%);
-    height: 90px;
+    height: 100px;
+    
 }
 .nav-scroll .navbar-toggler-icon,
 .nav-scroll .icon-bar {
@@ -1064,8 +1065,8 @@ color: #aa8453;
         padding-right: 0px;
         background: transparent;
         padding-top: 0px;
-        padding-bottom: 0px;
-        height: 90px;
+        height: 120px;
+        margin-top:-20px
     }
     .nav-scroll {
         background: #fff;
